@@ -1,0 +1,21 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-O",
+      "-fstrength-reduce",
+      "-fomit-frame-pointer",
+      "-fcombine-regs",
+      "-nostdinc",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "init/main.o",
+      "init/main.c"
+    ],
+    "directory": "/Users/liyan/zone/linux-0.01",
+    "file": "/Users/liyan/zone/linux-0.01/init/main.c",
+    "output": "/Users/liyan/zone/linux-0.01/init/main.o"
+  }
+]
